@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="prefijoNuevo">
+    <file>recurso.qrc</file>
+    <file>loktra-volterra.png</file>
+  </qresource>
+</RCC>
